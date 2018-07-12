@@ -7,7 +7,7 @@ class Song < InteractiveRecord
   end
 
   def test
-    puts 'test'
+    'test'
   end
 
 end
